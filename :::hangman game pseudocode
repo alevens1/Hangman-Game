@@ -1,0 +1,28 @@
+///hangman game pseudocode
+
+create an array of words
+get a random word from an array
+create a for loop
+
+
+
+///how to play hangman
+
+///the computer has a hidden word that is chosen randomly
+///computer will display blank spaces based on number of characters in the word
+///user is trying to guess the word by entering random letters
+
+///the computer will compare the users character guesses to the individual characters in the randomly chosen word
+
+///if user guesses a character which is included in the randomly chosen word, the computer will display the character as it appears in the word in the corresponding blank of that character
+
+///if user guesses a correct character, piece of hangman will appear
+
+
+///if user completes correct guesses and completes word, then user wins
+
+///if user wins, hangman image completes 
+
+///
+
+
